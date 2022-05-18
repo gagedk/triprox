@@ -7,10 +7,10 @@ I'm a 13 year old nerd who likes coding and I'm hopefully gonna deploy it to Her
 
 # FAQ
 
-Q: \n
-  What will the site have? \n
-A: \n 
-  It will have Ultraviolet, Womginx, and hopefully Rammerhead + lots of games including: clickers, TriCraft (a fork of AyunCraft), platformers, and miscellaneous other games like Slope
+Q: <br>
+  What will the site have? <br>
+A: <br>
+  It will have Ultraviolet, Womginx, and hopefully Rammerhead + lots of games including: clickers, TriCraft (a fork of AyunCraft), platformers, and miscellaneous other games like Slope <br>
 Q: \n
   When will the site be up:  \n
 A: \n
