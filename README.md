@@ -7,15 +7,15 @@ I'm a 13 year old nerd who likes coding and I'm hopefully gonna deploy it to Her
 
 # FAQ
 
-Q:
-  What will the site have?
-A:
+Q: \n
+  What will the site have? \n
+A: \n 
   It will have Ultraviolet, Womginx, and hopefully Rammerhead + lots of games including: clickers, TriCraft (a fork of AyunCraft), platformers, and miscellaneous other games like Slope
-Q:
-  When will the site be up:
-A: 
-  Like I said earlier, hopefully mid-end of June, and when I get the change to buy a domain.
-Q:
-  What will the domain be?
-A:
+Q: \n
+  When will the site be up:  \n
+A: \n
+  Like I said earlier, hopefully mid-end of June, and when I get the change to buy a domain. \n
+Q: \n
+  What will the domain be? \n
+A: \n
   I'm not sure but I'll be sure to update the README when I get a domain. It'll probably change every year or when GoGuardian blocks it in our district. For now, TriCraft is currently on a custom domain and I might put it on that domain. If you want to play TriCraft at schools, message me on Discord (Gage#3758) or create an issue with a way to contact you.
